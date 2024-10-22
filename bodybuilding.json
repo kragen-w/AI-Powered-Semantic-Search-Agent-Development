@@ -1,0 +1,460 @@
+[
+      {
+        "name": "Barbell Bench Press",
+        "body_part": "Chest",
+        "muscle_group": "Chest",
+        "difficulty": 4,
+        "at_home": false,
+        "description": "Lie on a flat bench with your feet firmly planted on the ground. Grip the barbell slightly wider than shoulder-width apart and lower it to your chest, keeping your elbows at a 90-degree angle. Push the barbell back up to the starting position, fully extending your arms.",
+        "rep_range": "4-6 sets of 6-8 reps"
+      },
+      {
+        "name": "Barbell Squat",
+        "body_part": "Legs",
+        "muscle_group": "Legs",
+        "difficulty": 5,
+        "at_home": false,
+        "description": "Stand with your feet shoulder-width apart, holding a barbell across your upper back. Squat down by bending your knees and pushing your hips back, then return to the starting position by extending your knees and hips.",
+        "rep_range": "4-6 sets of 6-8 reps"
+      },
+      {
+        "name": "Pull-Up",
+        "body_part": "Back, Biceps",
+        "muscle_group": "Back",
+        "difficulty": 2,
+        "at_home": true,
+        "description": "Hang from a pull-up bar with your palms facing away from you and hands shoulder-width apart. Pull your body up until your chin passes the bar, then lower yourself back down to the starting position.",
+        "rep_range": "3-4 sets of 6-10 reps"
+      },
+      {
+        "name": "Barbell Row",
+        "body_part": "Back",
+        "muscle_group": "Back",
+        "difficulty": 4,
+        "at_home": false,
+        "description": "Stand with your feet shoulder-width apart, holding a barbell with an overhand grip. Bend your knees slightly and hinge at the hips to lower the barbell towards the ground. Pull the barbell up towards your lower chest, then lower it back down.",
+        "rep_range": "3-4 sets of 8-12 reps"
+      },
+      {
+        "name": "Barbell Shoulder Press",
+        "body_part": "Shoulders",
+        "muscle_group": "Shoulders",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Stand with your feet shoulder-width apart, holding a barbell at shoulder height with an overhand grip. Press the barbell overhead until your arms are fully extended, then lower it back to shoulder height.",
+        "rep_range": "3-4 sets of 8-12 reps"
+      },
+      {
+        "name": "Barbell Biceps Curl",
+        "body_part": "Biceps",
+        "muscle_group": "Arms",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Stand with your feet shoulder-width apart, holding a barbell with an underhand grip and arms fully extended. Curl the barbell towards your shoulders, keeping your elbows close to your sides, then lower it back down.",
+        "rep_range": "3-4 sets of 8-12 reps"
+      },
+      {
+        "name": "Triceps Dip",
+        "body_part": "Triceps",
+        "muscle_group": "Arms",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Position your hands shoulder-width apart on parallel bars, with your arms fully extended. Lower your body by bending your elbows until your upper arms are parallel to the ground, then push yourself back up to the starting position.",
+        "rep_range": "3-4 sets of 6-10 reps"
+      },
+      {
+        "name": "Barbell Deadlift",
+        "body_part": "Back, Glutes, Hamstrings",
+        "muscle_group": "Back",
+        "difficulty": 5,
+        "at_home": false,
+        "description": "Stand with your feet hip-width apart and the barbell over your mid-foot. Bend at your hips and knees, keeping your back straight, to grip the barbell with hands shoulder-width apart. Lift the barbell by extending your hips and knees, keeping it close to your body. Stand tall, then lower the barbell back to the ground.",
+        "rep_range": "3-5 sets of 3-5 reps"
+      },
+      {
+        "name": "Dumbbell Bench Press",
+        "body_part": "Chest",
+        "muscle_group": "Chest",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Lie on a flat bench with a dumbbell in each hand, palms facing forward. Press the dumbbells up until your arms are fully extended, then lower them back down to chest level.",
+        "rep_range": "3-4 sets of 8-10 reps"
+      },
+      {
+        "name": "Dumbbell Shoulder Press",
+        "body_part": "Shoulders",
+        "muscle_group": "Shoulders",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Sit on a bench with a back support, holding a dumbbell in each hand at shoulder height. Press the dumbbells overhead until your arms are fully extended, then lower them back down to shoulder height.",
+        "rep_range": "3-4 sets of 8-12 reps"
+      },
+      {
+        "name": "Dumbbell Biceps Curl",
+        "body_part": "Biceps",
+        "muscle_group": "Arms",
+        "difficulty": 1,
+        "at_home": false,
+        "description": "Stand with a dumbbell in each hand, palms facing forward. Keep your elbows close to your body and curl the dumbbells upwards towards your shoulders, contracting your biceps. Lower the dumbbells back to the starting position with control.",
+        "rep_range": "3-4 sets of 8-12 reps"
+      },
+      {
+        "name": "Dumbbell Triceps Extension",
+        "body_part": "Triceps",
+        "muscle_group": "Arms",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Sit on a bench with a dumbbell held in both hands overhead, arms fully extended. Lower the dumbbell behind your head by bending your elbows while keeping your upper arms stationary. Extend your arms to raise the dumbbell back to the starting position.",
+        "rep_range": "3-4 sets of 10-12 reps"
+      },
+        {
+        "name": "Dumbbell Row",
+        "body_part": "Back",
+        "muscle_group": "Back",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Stand with a dumbbell in each hand, palms facing your body. Bend your knees slightly and hinge forward at the hips. Pull the dumbbells up towards your hips, squeezing your shoulder blades together. Lower the dumbbells back down with control.",
+        "rep_range": "3-4 sets of 8-12 reps"
+        },
+        {
+        "name": "Leg Press",
+        "body_part": "Legs",
+        "muscle_group": "Legs",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Sit on the leg press machine with your feet shoulder-width apart on the platform. Release the safety locks and extend your legs until they are almost fully straight. Bend your knees to lower the weight, then press the weight back up to the starting position.",
+        "rep_range": "3-4 sets of 10-12 reps"
+        },
+        {
+        "name": "Leg Extension",
+        "body_part": "Legs",
+        "muscle_group": "Legs",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Sit on the leg extension machine with your back against the backrest and your feet under the pad. Extend your legs until they are straight, then lower them back down with control.",
+        "rep_range": "3-4 sets of 10-12 reps"
+        },
+        {
+        "name": "Leg Curl",
+        "body_part": "Legs",
+        "muscle_group": "Legs",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Lie face down on the leg curl machine with your heels against the padded lever. Curl your legs up towards your glutes, then lower them back down with control.",
+        "rep_range": "3-4 sets of 10-12 reps"
+        },
+        {
+        "name": "Calf Raise",
+        "body_part": "Calves",
+        "muscle_group": "Legs",
+        "difficulty": 2,
+        "at_home": true,
+        "description": "Stand on a raised platform with your heels hanging off the edge. Raise your heels as high as possible, then lower them back down below the level of the platform.",
+        "rep_range": "3-4 sets of 12-15 reps"
+        },
+        {
+        "name": "Dumbbell Lunges",
+        "body_part": "Legs",
+        "muscle_group": "Legs",
+        "difficulty": 2,
+        "at_home": true,
+        "description": "Stand with a dumbbell in each hand, feet shoulder-width apart. Take a step forward with one foot and lower your body until both knees are bent at a 90-degree angle. Push back up to the starting position and repeat on the other side.",
+        "rep_range": "3-4 sets of 8-10 reps per leg"
+        },
+        {
+        "name": "Dumbbell Flyes",
+        "body_part": "Chest",
+        "muscle_group": "Chest",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Lie on a flat bench with a dumbbell in each hand, palms facing inward. Extend your arms out to the sides with a slight bend in your elbows. Lower the dumbbells down in an arc motion until your elbows are in line with your shoulders, then bring them back up to the starting position.",
+        "rep_range": "3-4 sets of 8-12 reps"
+        },
+        {
+        "name": "Cable Flyes",
+        "body_part": "Chest",
+        "muscle_group": "Chest",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Stand in the center of a cable machine with the cables set at shoulder height. Hold a handle in each hand, palms facing forward. Extend your arms out to the sides in a wide arc motion, then bring them back together in front of your chest.",
+        "rep_range": "3-4 sets of 10-12 reps"
+        },
+        {
+        "name": "Cable Row",
+        "body_part": "Back",
+        "muscle_group": "Back",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Sit at a cable row machine with your feet on the footrests and your knees slightly bent. Grasp the handles with an overhand grip and pull them towards your torso, squeezing your shoulder blades together. Slowly extend your arms back to the starting position.",
+        "rep_range": "3-4 sets of 8-12 reps"
+        },
+        {
+        "name": "Cable Pulldown",
+        "body_part": "Back",
+        "muscle_group": "Back",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Sit at a cable pulldown machine with your knees under the pads and your feet flat on the ground. Grasp the bar with an overhand grip and pull it down towards your chest, keeping your elbows close to your body. Slowly release the bar back up to the starting position.",
+        "rep_range": "3-4 sets of 8-12 reps"
+        },
+        {
+        "name": "Cable Crunch",
+        "body_part": "Core",
+        "muscle_group": "Core",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Kneel facing a high pulley cable machine with a rope attachment. Grasp the rope with both hands and bring it down to your shoulders. Crunch your upper body down towards your knees, then slowly return to the starting position.",
+        "rep_range": "3-4 sets of 12-15 reps"
+        },
+        {
+        "name": "Seated Cable Row",
+        "body_part": "Back",
+        "muscle_group": "Back",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Sit at a cable row machine with your feet on the footrests and your knees slightly bent. Grasp the handles with an overhand grip and pull them towards your torso, squeezing your shoulder blades together. Slowly extend your arms back to the starting position.",
+        "rep_range": "3-4 sets of 8-12 reps"
+        },
+        {
+        "name": "Lateral Raise",
+        "body_part": "Shoulders",
+        "muscle_group": "Shoulders",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Stand with a dumbbell in each hand, palms facing your body. Lift the dumbbells out to the sides until they reach shoulder height, then lower them back down with control.",
+        "rep_range": "3-4 sets of 10-12 reps"
+        },
+        {
+        "name": "Front Raise",
+        "body_part": "Shoulders",
+        "muscle_group": "Shoulders",
+        "difficulty": 2,
+        "at_home": false,
+        "description": "Stand with a dumbbell in each hand, palms facing your thighs. Lift the dumbbells in front of you until they reach shoulder height, then lower them back down with control.",
+        "rep_range": "3-4 sets of 10-12 reps"
+        },
+
+        {
+        "name": "Romanian Deadlift",
+        "body_part": "Hamstrings and Glutes",
+        "muscle_group": "Legs",
+        "difficulty": 3,
+        "at_home": false,
+        "description": "Stand with your feet hip-width apart and hold a barbell in front of your thighs, palms facing your body. Keeping your back straight and knees slightly bent, hinge at the hips and lower the barbell towards the ground, maintaining a slight bend in your knees. Lower the barbell until you feel a stretch in your hamstrings, then return to the starting position by squeezing your glutes and extending your hips.",
+        "rep_range": "3-4 sets of 8-12 reps"
+        },
+        {
+        "name": "Glute Bridge",
+        "body_part": "Glutes",
+        "muscle_group": "Legs",
+        "difficulty": 2,
+        "at_home": true,
+        "description": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips towards the ceiling, squeezing your glutes at the top of the movement. Lower your hips back down to the starting position with control.",
+        "rep_range": "3-4 sets of 12-15 reps"
+        },
+        {
+        "name": "Plank",
+        "body_part": "Core",
+        "muscle_group": "Core",
+        "difficulty": 1,
+        "at_home": true,
+        "description": "Start in a push-up position with your forearms on the ground, elbows directly beneath your shoulders. Engage your core and hold your body in a straight line from head to heels. Keep your abdominals tight and avoid sagging or arching your back.",
+        "rep_range": "3-4 sets of 30-60 seconds"
+        },
+        {
+            "name": "Push-Up",
+            "body_part": "Upper Body",
+            "muscle_group": "Chest",
+            "difficulty": 2,
+            "at_home": true,
+            "description": "Start in a plank position with your hands slightly wider than shoulder-width apart. Lower your body until your chest nearly touches the floor. Push yourself back up to the starting position.",
+            "rep_range": "3 sets of 10-15 reps"
+        },
+        {
+            "name": "Bodyweight Squat",
+            "body_part": "Lower Body",
+            "muscle_group": "Legs",
+            "difficulty": 1,
+            "at_home": true,
+            "description": "Stand with your feet shoulder-width apart. Lower your body as if you're sitting back into a chair, keeping your knees behind your toes. Return to the starting position.",
+            "rep_range": "3 sets of 15-20 reps"
+        },
+        {
+            "name": "Lunges",
+            "body_part": "Lower Body",
+            "muscle_group": "Legs",
+            "difficulty": 2,
+            "at_home": true,
+            "description": "Stand tall with feet hip-width apart. Take a step forward with one leg and lower your hips until both knees are bent at about 90 degrees. Return to the starting position and switch legs.",
+            "rep_range": "3 sets of 10-12 reps per leg"
+        },
+        {
+            "name": "Bicycle Crunch",
+            "body_part": "Core",
+            "muscle_group": "Core",
+            "difficulty": 2,
+            "at_home": true,
+            "description": "Lie on your back with your knees bent and hands behind your head. Lift your shoulders off the ground and rotate your body, bringing your right elbow towards your left knee while extending your right leg. Switch sides.",
+            "rep_range": "3 sets of 15-20 reps per side"
+        },
+        {
+            "name": "Superman",
+            "body_part": "Back",
+            "muscle_group": "Lower Back",
+            "difficulty": 1,
+            "at_home": true,
+            "description": "Lie face down on the floor with your arms extended in front of you. Simultaneously raise your arms, legs, and chest off the ground as high as you can. Hold for a few seconds and then lower back down.",
+            "rep_range": "3 sets of 10-15 reps"
+        },
+        {
+            "name": "Chair Dip",
+            "body_part": "Upper Body",
+            "muscle_group": "Triceps",
+            "difficulty": 2,
+            "at_home": true,
+            "description": "Sit on the edge of a chair with your hands next to your hips. Slide your butt off the chair and bend your elbows to lower your body. Push back up to the starting position.",
+            "rep_range": "3 sets of 10-15 reps"
+        },
+        {
+          "name": "Mountain Climbers",
+          "body_part": "Full Body",
+          "muscle_group": "Core, Legs",
+          "difficulty": 2,
+          "at_home": true,
+          "description": "Start in a plank position. Bring one knee towards your chest, then switch legs quickly, as if you're running in place horizontally.",
+          "rep_range": "3 sets of 20-30 reps per side"
+      },
+      {
+          "name": "Burpees",
+          "body_part": "Full Body",
+          "muscle_group": "Full Body",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Start standing. Drop into a squat position with your hands on the ground. Kick your feet back into a push-up position and lower your chest to the floor. Push your chest back up to the plank position and jump your feet back in towards your hands. Explode into the air and reach your arms overhead.",
+          "rep_range": "3 sets of 10-15 reps"
+      },
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+      {
+          "name": "Dumbbell Renegade Row",
+          "body_part": "Back, Core",
+          "muscle_group": "Back",
+          "difficulty": 4,
+          "at_home": true,
+          "description": "Start in a plank position with a dumbbell in each hand. Row one dumbbell towards your hip while balancing on the other arm and keeping your body straight. Lower the dumbbell back down and repeat on the other side.",
+          "rep_range": "3-4 sets of 10-12 reps per side"
+      },
+      {
+          "name": "Single-Leg Deadlift with Row",
+          "body_part": "Back, Glutes",
+          "muscle_group": "Back",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Hold a dumbbell in one hand and balance on the opposite leg. Perform a single-leg deadlift, extending your free leg behind you and lowering the dumbbell towards the ground. At the bottom of the movement, row the dumbbell towards your hip. Stand back up and repeat.",
+          "rep_range": "3-4 sets of 10-12 reps per side"
+      },
+      {
+          "name": "Kettlebell Swing to Squat",
+          "body_part": "Legs, Shoulders",
+          "muscle_group": "Full Body",
+          "difficulty": 4,
+          "at_home": true,
+          "description": "Start with feet shoulder-width apart and a kettlebell in both hands. Swing the kettlebell between your legs and drive your hips forward to swing it up to shoulder height. As the kettlebell reaches shoulder height, squat down, keeping the kettlebell at shoulder height, then stand back up and repeat.",
+          "rep_range": "3-4 sets of 12-15 reps"
+      },
+      {
+          "name": "Bear Crawl with Shoulder Tap",
+          "body_part": "Core, Shoulders",
+          "muscle_group": "Full Body",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Start on all fours with knees hovering off the ground (bear crawl position). Crawl forward while simultaneously lifting one hand to tap the opposite shoulder, alternating sides as you move.",
+          "rep_range": "3 sets of 20-30 seconds"
+      },
+      {
+          "name": "Alternating Dumbbell Clean and Press",
+          "body_part": "Legs, Shoulders",
+          "muscle_group": "Full Body",
+          "difficulty": 4,
+          "at_home": false,
+          "description": "Start with a dumbbell in each hand at your sides. Squat down and explode up, bringing one dumbbell to shoulder height, then press it overhead. Lower the dumbbell back down and repeat with the other side.",
+          "rep_range": "3-4 sets of 10-12 reps per side"
+      },
+      {
+          "name": "T-Push-Up",
+          "body_part": "Chest, Shoulders",
+          "muscle_group": "Chest",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Start in a push-up position. Perform a push-up, and as you come up, rotate your body to one side and extend the arm on that side towards the ceiling, forming a T with your body. Return to the push-up position and repeat on the other side.",
+          "rep_range": "3 sets of 10-12 reps per side"
+      },
+      {
+          "name": "Bulgarian Split Squat with Overhead Press",
+          "body_part": "Legs, Shoulders",
+          "muscle_group": "Legs",
+          "difficulty": 4,
+          "at_home": true,
+          "description": "Stand a few feet in front of a bench, holding dumbbells at shoulder height. Place one foot on the bench behind you. Lower into a split squat, then push back up and press the dumbbells overhead. Lower the dumbbells back to shoulder height and repeat.",
+          "rep_range": "3-4 sets of 8-10 reps per side"
+      },
+      {
+          "name": "Dumbbell Squat to Press",
+          "body_part": "Legs, Shoulders",
+          "muscle_group": "Full Body",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Hold a pair of dumbbells at shoulder height. Squat down, and as you stand up, press the dumbbells overhead. Lower the dumbbells back to shoulder height and repeat.",
+          "rep_range": "3-4 sets of 12-15 reps"
+      },
+      {
+          "name": "Walking Lunge with Bicep Curl",
+          "body_part": "Legs, Biceps",
+          "muscle_group": "Full Body",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Hold a dumbbell in each hand. Perform a walking lunge, and as you step forward, curl the dumbbells towards your shoulders. Lower the dumbbells as you step into the next lunge and repeat.",
+          "rep_range": "3-4 sets of 12-15 reps per leg"
+      },
+      {
+          "name": "Push-Up to Row",
+          "body_part": "Chest, Back",
+          "muscle_group": "Full Body",
+          "difficulty": 4,
+          "at_home": true,
+          "description": "Start in a push-up position with a dumbbell in each hand. Perform a push-up, then row one dumbbell towards your hip while stabilizing your body with the other arm. Lower the dumbbell back down and repeat on the other side.",
+          "rep_range": "3-4 sets of 8-10 reps per side"
+      },
+      {
+          "name": "Standing Dumbbell Fly to Press",
+          "body_part": "Chest, Shoulders",
+          "muscle_group": "Chest",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Stand with feet shoulder-width apart, holding dumbbells at your sides. Raise the dumbbells out to your sides (fly), then bring them back together in front of you and press them overhead. Lower the dumbbells back down and repeat.",
+          "rep_range": "3-4 sets of 10-12 reps"
+      },
+      {
+          "name": "Reverse Lunge to Front Raise",
+          "body_part": "Legs, Shoulders",
+          "muscle_group": "Legs",
+          "difficulty": 3,
+          "at_home": true,
+          "description": "Hold a dumbbell in each hand. Step back into a reverse lunge while raising the dumbbells in front of you to shoulder height. Step back to the starting position and lower the dumbbells. Repeat on the other side.",
+          "rep_range": "3-4 sets of 10-12 reps per leg"
+      }
+]
+
